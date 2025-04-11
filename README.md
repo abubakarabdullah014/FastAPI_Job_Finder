@@ -1,0 +1,1 @@
+Build your personalized job search assistant! This API uses web scraping + AI to deliver job listings tailored to your profile. Designed with FastAPI, Python, and OpenAI’s GPT-4o to find and filter jobs based on relevance. Ideal for machine learning and full-stack roles.
